@@ -1,0 +1,8 @@
+numpy
+liac-arff
+matplotlib
+sphinx_rtd_theme
+xgboost
+scikit-learn 
+torch 
+pyro-ppl
